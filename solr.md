@@ -2,11 +2,11 @@
 
 ## About:
 This a tutorial on how to set up a basic Solr instance on your own machine. Read more about
-Solr [here]("http://lucene.apache.org/solr/").
+Solr [here](http://lucene.apache.org/solr/).
 Also, I'm using a Mac. Commands in terminal/command might differ if you're using a Windows or Linux machine.
 
 ## Installation and Start up/Shut down
-1) Download the latest version of solr [here]("http://www.apache.org/dyn/closer.lua/lucene/solr/7.3.0") <br>
+1) Download the latest version of solr [here](http://www.apache.org/dyn/closer.lua/lucene/solr/7.3.0) <br>
 2) Unzip the file and move the solr folder to your desired location <br>
 3) Open Terminal and change directory to where you put the solr directory then go to the bin directory
 ```
